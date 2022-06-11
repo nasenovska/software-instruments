@@ -9,4 +9,4 @@ script:
   - ./mvnw test
 
 before_install:
-  - chmod +x mvnw
+  - chmod +x project-a/mvnw
