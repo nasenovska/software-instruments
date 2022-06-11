@@ -11,6 +11,10 @@
     <artifactId>software-instruments</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
+    <modules>
+        <module>project-b</module>
+    </modules>
+
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
