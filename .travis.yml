@@ -5,8 +5,8 @@ jdk:
 
 script:
   - java --version
-  - ./mvnw clean install
-  - ./mvnw test
+  - ./project-a/mvnw clean install
+  - ./project-a/mvnw test
 
 before_install:
   - chmod +x project-a/mvnw
